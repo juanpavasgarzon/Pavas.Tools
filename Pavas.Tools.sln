@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pavas.Tools.Math", "Pavas.Tools.Math\Pavas.Tools.Math.csproj", "{D1F1D950-4327-48E6-84A6-E668B517C23E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{D3AC652C-3D28-427C-AB36-984FAFD1A622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math.Example", "Math.Example\Math.Example.csproj", "{7F861441-0CB6-4375-928A-2464B3C02234}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1F1D950-4327-48E6-84A6-E668B517C23E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1F1D950-4327-48E6-84A6-E668B517C23E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1F1D950-4327-48E6-84A6-E668B517C23E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1F1D950-4327-48E6-84A6-E668B517C23E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F861441-0CB6-4375-928A-2464B3C02234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F861441-0CB6-4375-928A-2464B3C02234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F861441-0CB6-4375-928A-2464B3C02234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F861441-0CB6-4375-928A-2464B3C02234}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7F861441-0CB6-4375-928A-2464B3C02234} = {D3AC652C-3D28-427C-AB36-984FAFD1A622}
+	EndGlobalSection
+EndGlobal
